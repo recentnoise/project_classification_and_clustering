@@ -9,3 +9,10 @@ Task 1:
 Что делать
 
 Описать этапы построения модели, построить модель, оценить ее и рассказать бизнесу как ее применять, то есть нужна бизнес-интерпретация.
+
+Task 2:
+Select any dataset that will suit for clustering
+Observe your data
+Apply some data preparation
+Apply clustering model
+Visualise your obtained clusters
